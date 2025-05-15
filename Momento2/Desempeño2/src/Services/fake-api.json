@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "usuario": "juanp",
+      "contrasena": "123",
+      "correo": "juan.perez@example.com"
+    },
+    {
+      "id": "2",
+      "nombre": "María López",
+      "usuario": "marial",
+      "contrasena": "456",
+      "correo": "maria.lopez@example.com"
+    },
+    {
+      "id": "31a1",
+      "nombre": "José Ricardo",
+      "usuario": "josep",
+      "contrasena": "1234",
+      "correo": "josep@doka.com"
+    },
+    {
+      "id": "d627",
+      "nombre": "Ricardo",
+      "usuario": "Dokari",
+      "contrasena": "@D0K4R1Kun",
+      "correo": "ricardotejedor18@gmail.com"
+    },
+    {
+      "id": "129c",
+      "nombre": "mariana",
+      "usuario": "mariana",
+      "contrasena": "1234",
+      "correo": "osoriomariana408@gmail.com"
+    }
+  ]
+}
